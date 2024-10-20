@@ -30,6 +30,7 @@ const Projects = () => {
           ))}
         </div>
       </div>
+      <div className='flex items-center justify-center mt-9  bg-[#1a1443] text-white absolute left-[480px] w-fit px-5 py-3 text-xl rounded-md'>More Projects</div>
     </div>
   );
 };
