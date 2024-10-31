@@ -1,3 +1,3 @@
 mahendrakumawat.xyz
 
-check out the my 
+check out the 
